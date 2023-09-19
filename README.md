@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/150px-Java_programming_language_logo.svg.png" alt="Java Logo" width="150" height="150">
 </p>
-# Java Programming Concepts README
+## Java Programming Concepts README
 
 Welcome to the Java Programming Concepts GitHub repository! This repository is designed to help you understand various fundamental concepts of Java programming. Below, you'll find a brief overview of each topic covered in this repository, along with some creative ideas for using them effectively in your Java projects. :coffee:
 
